@@ -6,11 +6,11 @@
 
 ### Prerequisites
 - [.NET 4.5 Desktop Runtime](https://dotnet.microsoft.com/download/dotnet-framework/net45) or higher installed on your computer.
-- Windows 10 (there are no plans to add support for older versions of Windows that [Microsoft is not in turn supporting](https://www.microsoft.com/en-au/windows/windows-7-end-of-life-support-information), or other operating systems).
+- Windows 10 or Newer(there are no plans to add support for older versions of Windows that [Microsoft is not in turn supporting](https://www.microsoft.com/en-au/windows/windows-7-end-of-life-support-information), or other operating systems).
 
 ### Installation
 
-Download the latest build from [the releases page](https://github.com/ImMoa/Quoridor/releases), then simply extract it to your location of choice and run the game.
+Download the latest build from [Releases Page](https://github.com/Ayumudayo/Quoridor/releases), then simply extract it to your location of choice and run the game.
 
 ## Authors
 
